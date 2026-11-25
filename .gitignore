@@ -1,0 +1,19 @@
+node_modules/
+out/
+build/
+.env
+.env.*
+*.mp4
+*.mov
+*.png
+*.jpg
+*.wav
+*.mp3
+*.opus
+*.m4a
+*.b64
+*.tar.gz
+# link ElevenLabs có chữ ký, hết hạn sau vài giờ
+*urls*.txt
+public/*/lines/
+public/*/voice.*

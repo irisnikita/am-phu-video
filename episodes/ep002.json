@@ -1,0 +1,163 @@
+{
+ "id": "ep002",
+ "title": "Tội #002: Seen không rep",
+ "speakers": {
+  "dv": {
+   "name": "DIÊM VƯƠNG",
+   "elevenlabs_voice_id": "5EGsyl6KB52pZwdjP3Jd"
+  },
+  "meo": {
+   "name": "MÈO SỔ",
+   "elevenlabs_voice_id": "L99f0xeiYOtSwfCH7pe4",
+   "elevenlabs_rule": "Mọi câu bắt đầu bằng [strong Southern Vietnamese accent]; dùng từ miền Nam."
+  },
+  "hon": {
+   "name": "BỊ CÁO",
+   "elevenlabs_voice_id": "ibzozdFtBWBA0VJB5HFb",
+   "elevenlabs_rule": "Sợ, run, lắp. Ba bị cáo chung giọng, đổi cảm xúc và tốc độ."
+  }
+ },
+ "lines": [
+  {
+   "speaker": "dv",
+   "scene": "court",
+   "dv": "shout",
+   "hon": "scared",
+   "overlay": "ÁN SỐ 002 – TỘI: SEEN KHÔNG REP",
+   "text": "Đã xem... mà KHÔNG TRẢ LỜI?! Ba đứa, quỳ xuống!",
+   "tts": "[shouting] [furious] Đã xem... mà KHÔNG TRẢ LỜI?! [roaring] Ba đứa, quỳ xuống!"
+  },
+  {
+   "speaker": "meo",
+   "scene": "dossier",
+   "text": "Bẩm, ba bị cáo, cộng lại bốn ngày chưa rep. Sổ ghi hết rồi nha.",
+   "tts": "[strong Southern Vietnamese accent] [playful] Bẩm, ba bị cáo, cộng lại bốn ngày chưa rép. [smug] Sổ ghi hết rồi nha."
+  },
+  {
+   "speaker": "meo",
+   "scene": "group_chat",
+   "text": "Vật chứng A: nhóm lớp hỏi ai làm slide phần ba. Bốn mươi bảy người xem. Hông ai rep.",
+   "tts": "[strong Southern Vietnamese accent] [gossiping, fast] Vật chứng A: nhóm lớp hỏi ai làm slai phần ba. Bốn mươi bảy người xem. [deadpan] Hông ai rép."
+  },
+  {
+   "speaker": "hon",
+   "who": "sv",
+   "scene": "court",
+   "dv": "angry",
+   "hon": "scared",
+   "text": "D-dạ... con... con tưởng bốn mươi sáu đứa kia rep rồi...",
+   "tts": "[terrified] [stammering] [fast] D-dạ... con... con tưởng bốn mươi sáu đứa kia rép rồi..."
+  },
+  {
+   "speaker": "dv",
+   "scene": "ghosts46",
+   "stamp": "TỘI: SEEN NHÓM",
+   "text": "Bốn mươi sáu đứa kia cũng tưởng vậy.",
+   "tts": "[deadpan] [slow] Bốn mươi sáu đứa kia... cũng tưởng vậy."
+  },
+  {
+   "speaker": "meo",
+   "scene": "dress_chat",
+   "text": "Vật chứng B: bạn gái hỏi váy nào đẹp. Gõ rồi xóa mười bốn lần, ba tiếng sau rep đúng một chữ: ok.",
+   "tts": "[strong Southern Vietnamese accent] [excited gossip] Vật chứng B: bạn gái hỏi váy nào đẹp. Gõ rồi xóa mười bốn lần, ba tiếng sau rép đúng một chữ: [pause] ô kê."
+  },
+  {
+   "speaker": "hon",
+   "who": "ny",
+   "scene": "court",
+   "dv": "angry",
+   "hon": "scared",
+   "text": "D-dạ... con sợ... chọn sai... em buồn...",
+   "tts": "[whimpering] [stammering] D-dạ... con sợ... chọn sai... em buồn..."
+  },
+  {
+   "speaker": "dv",
+   "scene": "court",
+   "dv": "smug",
+   "hon": "scared",
+   "stamp": "TỘI: REP CHỮ OK.",
+   "text": "Hai cái y chang nhau. Câu đó ta cũng không dám trả lời.",
+   "tts": "[deadpan] Hai cái y chang nhau. [pause] Câu đó ta cũng không dám trả lời."
+  },
+  {
+   "speaker": "meo",
+   "scene": "mom_chat",
+   "text": "Vật chứng C: mẹ hỏi con ăn cơm chưa. Ngày thứ hai: con bận hả. Ngày thứ ba, mẹ hỏi: con còn sống không con?",
+   "tts": "[strong Southern Vietnamese accent] [serious] Vật chứng C: mẹ hỏi con ăn cơm chưa. Ngày thứ hai: con bận hả. [slow] Ngày thứ ba, mẹ hỏi: con còn sống không con?"
+  },
+  {
+   "speaker": "dv",
+   "scene": "court",
+   "dv": "smug",
+   "hon": "scared",
+   "text": "Câu đó... là việc của ta.",
+   "tts": "[deadpan] [slow] Câu đó... là việc của ta."
+  },
+  {
+   "speaker": "hon",
+   "who": "con",
+   "scene": "son_room",
+   "text": "D-dạ... dạo này con... không ổn. Con sợ rep... mẹ nghe ra...",
+   "tts": "[trembling voice] [sad] [quiet] D-dạ... dạo này con... không ổn. Con sợ rép... mẹ nghe ra..."
+  },
+  {
+   "speaker": "meo",
+   "scene": "kitchen",
+   "stamp": "TỘI: SEEN MẸ",
+   "text": "Còn mẹ thì cơm vẫn để phần, điện thoại vẫn để sẵn trên bàn.",
+   "tts": "[strong Southern Vietnamese accent] [softly] [slow] Còn mẹ thì cơm vẫn để phần, điện thoại vẫn để sẵn trên bàn."
+  },
+  {
+   "speaker": "meo",
+   "scene": "tu_story",
+   "text": "Hồ sơ cũ nè. Chú Tư... tính trả lời bạn thân cho đàng hoàng. Lưu nháp một năm, mười năm, hai chục năm.",
+   "tts": "[strong Southern Vietnamese accent] [softly] [storytelling] Hồ sơ cũ nè. Chú Tư... tính trả lời bạn thân cho đàng hoàng. Lưu nháp một năm, mười năm, hai chục năm."
+  },
+  {
+   "speaker": "meo",
+   "scene": "tu_fail",
+   "text": "Tới lúc bấm gửi... số đó hông còn nữa.",
+   "tts": "[strong Southern Vietnamese accent] [quiet] [slow] Tới lúc bấm gửi... số đó hông còn nữa.",
+   "hold": 0.7
+  },
+  {
+   "speaker": "dv",
+   "scene": "send_three",
+   "text": "Gửi rồi à. Ừ.",
+   "tts": "[softly] [low] Gửi rồi à. [pause] Ừ.",
+   "hold": 1.6
+  },
+  {
+   "speaker": "dv",
+   "scene": "verdict",
+   "text": "Phán quyết. Một: chưa rep được thì gửi trước một câu: Đọc rồi, chín giờ tối trả lời. Hai: tin cần nghĩ thì bấm giữ, đánh dấu chưa đọc. Ba: chín giờ tối, mười phút rep hết. Còn tin của mẹ: không cần hay. Con ăn rồi, là mẹ yên.",
+   "tts": "[commanding] Phán quyết. Một: chưa rép được thì gửi trước một câu: Đọc rồi, chín giờ tối trả lời. Hai: tin cần nghĩ thì bấm giữ, đánh dấu chưa đọc. Ba: chín giờ tối, mười phút rép hết. [softer] Còn tin của mẹ: không cần hay. Con ăn rồi, là mẹ yên."
+  },
+  {
+   "speaker": "dv",
+   "scene": "punish",
+   "text": "Và cả ba: kiếp sau nhắn crush, lúc nào cũng thấy đang soạn tin... rồi tắt.",
+   "tts": "[stern] [smug] Và cả ba: kiếp sau nhắn cờ rắt, lúc nào cũng thấy đang soạn tin... [pause] rồi tắt.",
+   "hold": 1.3
+  },
+  {
+   "speaker": "meo",
+   "scene": "twist",
+   "text": "Bẩm... còn một bị cáo nữa. Đơn xin tăng lương của Mèo. Gửi năm Kỷ Dậu, đã xem tám trăm bốn mươi bảy năm.",
+   "tts": "[strong Southern Vietnamese accent] [sly] [slow] Bẩm... còn một bị cáo nữa. [sarcastic] Đơn xin tăng lương của Mèo. Gửi năm Kỷ Dậu, đã xem... tám trăm bốn mươi bảy năm."
+  },
+  {
+   "speaker": "dv",
+   "scene": "twist_face",
+   "text": "...Đã xem.",
+   "tts": "[embarrassed] [mumbling] [quiet] ...Đã xem.",
+   "hold": 0.9
+  },
+  {
+   "speaker": "meo",
+   "scene": "cta",
+   "text": "Còn bạn, tin chưa rep lâu nhất là của ai? Khai dưới bình luận nha. Mèo... đã xem rồi đó.",
+   "tts": "[strong Southern Vietnamese accent] [teasing] Còn bạn, tin chưa rép lâu nhất là của ai? Khai dưới bình luận nha. [smug] Mèo... đã xem rồi đó."
+  }
+ ]
+}
